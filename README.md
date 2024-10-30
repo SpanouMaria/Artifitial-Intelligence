@@ -33,8 +33,8 @@ Welcome to the "Artificial Intelligence Projects", an implementation of artifici
 ## How to run
 - Clone the Repository:
   ``` bash
-      git clone https://github.com/ChristosGkovaris/Artificial-Intelligence-Projects.git
-      cd Artificial-Intelligence-Projects
+      git clone https://github.com/SpanouMaria/Artificial-Intelligence.git
+      cd Artificial-Intelligence
 - Ensure you have Java installed: The program requires Java 11 or later.
 - Compile and run programs: **javac PuzzleSolver.java** / **javac GridGame.java**
 

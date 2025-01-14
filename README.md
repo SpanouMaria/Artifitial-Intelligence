@@ -44,4 +44,4 @@ This project was a collaborative effort. Special thanks to [ChristosGkovaris](ht
 
 
 ## Others
-For a pdf version of the reports, please send me an email at christosgkovariscs52@gmail.com
+For a pdf version of the reports, please send me an email at spanoumaria3@yahoo.com
